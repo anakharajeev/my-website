@@ -1,0 +1,16 @@
+.abc{
+    background-color: lightblue;
+}
+
+
+.header{
+    width: 100%;
+}
+
+
+.card {
+    max-width: 100%;
+}
+.card-text {
+    word-wrap: break-word;
+}
